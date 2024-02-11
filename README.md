@@ -1,8 +1,17 @@
-# React + Vite
+follow the instructions below and recreate the similar screens in React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Assignment 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+1. Use formik for Form handling.
+
+2. Use Yup for validations , note that all fields should be filled except Optional fields before submitting.
+
+Validation message should be shown in red text color below on each field , Reference : MUI Helper Text.
+
+3. Use MUI for fields like dropdown and input.
+
+4. Create a similar screen from the reference images.
+
+

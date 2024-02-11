@@ -1,0 +1,21 @@
+.right-side {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: -23px 0px 15px 0px;
+}
+
+.vat {
+  color: red;
+}
+.your-selling{
+    color: rgb(109, 117, 226);
+}
+
+.iconWithBorder {
+  border: 10px solid #e9ecef;
+  border-radius: 0px;
+  margin: 0px 0px 0px -13px;
+  padding: 3px;
+  background-color: #e9ecef;
+  height: 30px !important ;
+}
