@@ -14,4 +14,8 @@ Validation message should be shown in red text color below on each field , Refer
 
 4. Create a similar screen from the reference images.
 
+screen 1
+![image](https://github.com/bhavik25-cpu/crypto-ui/assets/82199211/9c0b9e63-32f3-4fc7-9fde-e967f11b7f01)
+
+
 
